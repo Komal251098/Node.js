@@ -1,0 +1,6 @@
+This is a project for create a custom URL shortener using Node.js and MongoDB
+
+You can try it out using the following command.
+
+1. open cmd -> mongosh
+2. npm run start
